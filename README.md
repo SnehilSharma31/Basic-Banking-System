@@ -1,4 +1,4 @@
-# Basic-Banking-System
+# Basic Banking System
 
 **Deployed Website Link ->** https://snehilproject.000webhostapp.com/index.php
 
