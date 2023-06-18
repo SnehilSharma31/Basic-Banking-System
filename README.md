@@ -1,7 +1,5 @@
 # Basic-Banking-System
 
-## Deployed Website Link -> https://snehilproject.000webhostapp.com/index.php
-
 ◇ This Repo showcases my project, that I've created for my Internship task at The Sparks Foundation.
 
 ◇ This is a simple dynamic website that simulates a basic banking system. It provides users with a user-friendly interface to perform various banking operations. With this website, users can view detailed information about customers, transfer money between customers, and keep track of all transaction history.
@@ -18,10 +16,12 @@
 
 ◇ If you have any questions or want to know more about the project, you can reach out on LinkedIn at: https://www.linkedin.com/in/snehilsharma31/
 
+## Deployed Website Link -> https://snehilproject.000webhostapp.com/index.php
+
 ## Tech Stack
 
-**Front-end:** HTML, CSS, Bootstrap & JavaScript
-**Back-end:** PHP
+**Front-end:** HTML, CSS, Bootstrap & JavaScript <br>
+**Back-end:** PHP <br>
 **Database:** MySQL
 
 ## Installation
